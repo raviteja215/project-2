@@ -1,0 +1,6 @@
+projectKey=raviteja.life:Maven-App
+serverUrl=http://15.206.163.139:9000
+serverVersion=9.1.0.47736
+dashboardUrl=http://15.206.163.139:9000/dashboard?id=raviteja.life%3AMaven-App
+ceTaskId=AZDJnJ3F1mv460RfeFPb
+ceTaskUrl=http://15.206.163.139:9000/api/ce/task?id=AZDJnJ3F1mv460RfeFPb
