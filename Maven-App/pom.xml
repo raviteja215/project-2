@@ -22,14 +22,9 @@
   <distributionManagement>
     <repository>
         <id>nexus</id>
-        <name>ravi-maven-release</name>
-        <url>http://13.232.45.3:8081/repository/ravi-maven-release/</url>
+        <name>ravi-maven-remote</name>
+	<url>http://13.232.45.3:8081/repository/ravi-maven-remote/</url>
     </repository>
-  	<snapshotRepository>
-	    <id>nexus</id>
-        <name>ravi-maven-snap</name>
-        <url>http://13.232.45.3:8081/repository/ravi-maven-snap/</url>
-	  </snapshotRepository>
   </distributionManagement> 
   <build>
     <finalName>Maven-App</finalName>
